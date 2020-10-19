@@ -28,6 +28,10 @@ if each_word == "exhausted":
       feelings_list.append("exhausted")
       encouragement_list.append("jiayou! You can do it!")
       counter += 1
+     if each_word == "lonely":
+      feelings_list.append("lonely")
+      encouragement_list.append("i'll be your friend!")
+      counter += 1
 
   if counter == 0:
     
