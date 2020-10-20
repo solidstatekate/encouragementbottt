@@ -36,6 +36,10 @@ if each_word == "exhausted":
       feelings_list.append("angry")
       encouragement_list.append("Calm down, don't act rash!")
       counter += 1
+ if each_word == "insecure"
+      feelings_list.append("insecure")
+      encouragement_list.append("Just be yourself, you're the best!")
+      counter += 1
 
   if counter == 0:
     
