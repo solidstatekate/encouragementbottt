@@ -30,7 +30,7 @@ if each_word == "exhausted":
       counter += 1
      if each_word == "lonely":
       feelings_list.append("lonely")
-      encouragement_list.append("i'll be your friend!")
+      encouragement_list.append("i'll be your friend!you are never alone")
       counter += 1
  if each_word == "angry
       feelings_list.append("angry")
